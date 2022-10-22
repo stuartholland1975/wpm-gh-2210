@@ -171,7 +171,7 @@ const ProjectLocationsGrid = () => {
 
 	if (loading) return <CircularProgress />;
 	return (
-		<div style={{height:'75vh'}}>
+		<div style={{height:'70vh', marginBottom:5}}>
 			<AgGridReact
 				className='ag-theme-alpine'
 				animateRows='true'
