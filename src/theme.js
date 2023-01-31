@@ -1,12 +1,12 @@
 /** @format */
 
-import {createTheme} from '@mui/material/styles';
+import { createTheme } from '@mui/material/styles';
 
 export const theme = createTheme({
 	palette: {
 		type: 'light',
 		primary: {
-			main: '#22415e',
+			main: '#050e5c',
 		},
 		secondary: {
 			main: '#737373',
